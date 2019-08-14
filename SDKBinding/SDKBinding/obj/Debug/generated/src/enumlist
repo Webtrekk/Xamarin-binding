@@ -1,0 +1,5 @@
+org.koin.dsl.definition.Kind:Org.Koin.Dsl.Definition:Kind
+webtrekk.android.sdk.Logger$Level:Webtrekk.Android.Sdk:Logger.Level
+webtrekk.android.sdk.ParamType:Webtrekk.Android.Sdk:ParamType
+webtrekk.android.sdk.api.RequestType:Webtrekk.Android.Sdk.Api:RequestType
+webtrekk.android.sdk.data.entity.TrackRequest$RequestState:Webtrekk.Android.Sdk.Data.Entity:TrackRequest.RequestState

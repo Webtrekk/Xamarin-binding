@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7620903A-BB1B-4C55-B7A9-893E836BC70C}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.WTTest PreferredExecutionTarget="Android.Nexus_5X_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WTTest/MainActivity.cs">
+    <Files>
+      <File FileName="WTTest/MainActivity.cs" Line="45" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WTTest" expanded="True">
+            <Node name="WTTest" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

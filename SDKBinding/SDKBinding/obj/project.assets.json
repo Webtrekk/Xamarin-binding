@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "targets": {
+    "MonoAndroid,Version=v9.0": {},
+    "MonoAndroid,Version=v9.0/win": {},
+    "MonoAndroid,Version=v9.0/win-x64": {},
+    "MonoAndroid,Version=v9.0/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "MonoAndroid,Version=v9.0": []
+  },
+  "packageFolders": {
+    "/Users/ahmed.seddik/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/SDKBinding.csproj",
+      "projectName": "SDKBinding",
+      "projectPath": "/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/SDKBinding.csproj",
+      "packagesPath": "/Users/ahmed.seddik/.nuget/packages/",
+      "outputPath": "/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/ahmed.seddik/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "monoandroid90"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "monoandroid90": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
