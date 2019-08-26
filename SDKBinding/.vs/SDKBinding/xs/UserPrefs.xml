@@ -1,15 +1,24 @@
 ﻿<Properties StartupConfiguration="{E411CDA5-4367-4534-9B94-CC3E5C0DA68D}|Default">
   <MonoDevelop.Ide.ItemProperties.SDKBinding PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SDKBinding/obj/Debug/generated/src/Webtrekk.Android.Sdk.Data.Entity.TrackRequest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SDKBinding/Transforms/Metadata.xml">
     <Files>
-      <File FileName="SDKBinding/obj/Debug/generated/src/Webtrekk.Android.Sdk.Data.Entity.TrackRequest.cs" Line="579" Column="41" />
+      <File FileName="SDKBinding/Transforms/EnumFields.xml" Line="1" Column="1" />
+      <File FileName="SDKBinding/Transforms/EnumMethods.xml" Line="1" Column="1" />
+      <File FileName="SDKBinding/Transforms/Metadata.xml" Line="9" Column="6" />
+      <File FileName="SDKBinding/Properties/AssemblyInfo.cs" Line="14" Column="29" />
+      <File FileName="SDKBinding/Additions/AboutAdditions.txt" Line="1" Column="1" />
+      <File FileName="SDKBinding/obj/Debug/generated/src/Webtrekk.Android.Sdk.Data.Entity.TrackRequest.cs" Line="569" Column="5" />
+      <File FileName="SDKBinding/Jars/koin-android-1.0.2.aar" />
+      <File FileName="SDKBinding/Jars/AboutJars.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SDKBinding" expanded="True">
             <Node name="SDKBinding" expanded="True">
-              <Node name="Jars" expanded="True" selected="True" />
+              <Node name="Jars" expanded="True">
+                <Node name="koin-android-1.0.2.aar" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

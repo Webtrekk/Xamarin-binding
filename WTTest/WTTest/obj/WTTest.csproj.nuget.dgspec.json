@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/WTTest/WTTest/WTTest.csproj": {}
+  },
+  "projects": {
+    "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/SDKBinding/SDKBinding/SDKBinding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/SDKBinding/SDKBinding/SDKBinding.csproj",
+        "projectName": "SDKBinding",
+        "projectPath": "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/SDKBinding/SDKBinding/SDKBinding.csproj",
+        "packagesPath": "/Users/aleksandar.marinkovi/.nuget/packages/",
+        "outputPath": "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/SDKBinding/SDKBinding/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/aleksandar.marinkovi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/WTTest/WTTest/WTTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/WTTest/WTTest/WTTest.csproj",
+        "projectName": "WTTest",
+        "projectPath": "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/WTTest/WTTest/WTTest.csproj",
+        "packagesPath": "/Users/aleksandar.marinkovi/.nuget/packages/",
+        "outputPath": "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/WTTest/WTTest/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/aleksandar.marinkovi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/SDKBinding/SDKBinding/SDKBinding.csproj": {
+                "projectPath": "/Users/aleksandar.marinkovi/Projects/Xamarin-binding/SDKBinding/SDKBinding/SDKBinding.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Karamunting.KotlinX.Coroutines.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Square.OkHttp": {
+              "target": "Package",
+              "version": "[2.7.5.1, )"
+            },
+            "Square.OkHttp3": {
+              "target": "Package",
+              "version": "[3.12.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.0.2-preview02, )"
+            },
+            "Xamarin.AndroidX.Arch.Core.Runtime": {
+              "target": "Package",
+              "version": "[2.0.1-preview02, )"
+            },
+            "Xamarin.AndroidX.Browser": {
+              "target": "Package",
+              "version": "[1.0.0-preview02, )"
+            },
+            "Xamarin.AndroidX.CardView": {
+              "target": "Package",
+              "version": "[1.0.0-preview02, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout": {
+              "target": "Package",
+              "version": "[1.1.3-preview02, )"
+            },
+            "Xamarin.AndroidX.CoordinatorLayout": {
+              "target": "Package",
+              "version": "[1.0.0-preview02, )"
+            },
+            "Xamarin.AndroidX.Core": {
+              "target": "Package",
+              "version": "[1.0.1-preview02, )"
+            },
+            "Xamarin.AndroidX.Fragment": {
+              "target": "Package",
+              "version": "[1.0.0-preview02, )"
+            },
+            "Xamarin.AndroidX.Migration": {
+              "target": "Package",
+              "version": "[1.0.0-preview03, )"
+            },
+            "Xamarin.AndroidX.RecyclerView": {
+              "target": "Package",
+              "version": "[1.0.0-preview02, )"
+            },
+            "Xamarin.AndroidX.Room.Common": {
+              "target": "Package",
+              "version": "[2.0.0-preview02, )"
+            },
+            "Xamarin.AndroidX.Room.Runtime": {
+              "target": "Package",
+              "version": "[2.0.0-preview02, )"
+            },
+            "Xamarin.AndroidX.Transition": {
+              "target": "Package",
+              "version": "[1.0.1-preview02, )"
+            },
+            "Xamarin.AndroidX.Work.Runtime": {
+              "target": "Package",
+              "version": "[2.0.1-preview02, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0-preview02, )"
+            },
+            "Xamarin.Kotlin.StdLib": {
+              "target": "Package",
+              "version": "[1.3.31, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

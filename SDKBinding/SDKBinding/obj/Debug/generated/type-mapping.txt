@@ -414,7 +414,6 @@ webtrekk/android/sdk/data/entity/TrackRequest = Webtrekk.Android.Sdk.Data.Entity
   component8()Ljava/lang/String; = Component8()
   component9()Ljava/lang/String; = Component9()
   getRequestState()Lwebtrekk/android/sdk/data/entity/TrackRequest$RequestState; = GetRequestState()
-  setRequestState(Lwebtrekk/android/sdk/data/entity/TrackRequest$RequestState;)V = SetRequestState(Webtrekk.Android.Sdk.Data.Entity.TrackRequest.RequestState)
 webtrekk/android/sdk/data/repository/CustomParamRepository = Webtrekk.Android.Sdk.Data.Repository.ICustomParamRepository
 webtrekk/android/sdk/data/repository/CustomParamRepositoryImpl = Webtrekk.Android.Sdk.Data.Repository.CustomParamRepositoryImpl
   <init>(Lwebtrekk/android/sdk/data/dao/CustomParamDao;)V = .ctor(Webtrekk.Android.Sdk.Data.Dao.ICustomParamDao)

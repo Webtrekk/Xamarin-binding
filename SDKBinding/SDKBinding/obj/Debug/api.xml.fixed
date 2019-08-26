@@ -1199,9 +1199,6 @@
       <method abstract="false" deprecated="not deprecated" final="true" name="setId" jni-signature="(J)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
         <parameter name="&lt;set-?&gt;" type="long" jni-type="J"></parameter>
       </method>
-      <method abstract="false" deprecated="not deprecated" final="true" name="setRequestState" jni-signature="(Lwebtrekk/android/sdk/data/entity/TrackRequest$RequestState;)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
-        <parameter name="&lt;set-?&gt;" type="webtrekk.android.sdk.data.entity.TrackRequest.RequestState" jni-type="Lwebtrekk/android/sdk/data/entity/TrackRequest$RequestState;"></parameter>
-      </method>
     </class>
     <class abstract="false" deprecated="not deprecated" extends="java.lang.Enum" extends-generic-aware="java.lang.Enum&lt;webtrekk.android.sdk.data.entity.TrackRequest.RequestState&gt;" jni-extends="Ljava/lang/Enum;" final="true" name="TrackRequest.RequestState" static="true" visibility="public" jni-signature="Lwebtrekk/android/sdk/data/entity/TrackRequest$RequestState;">
       <method abstract="false" deprecated="not deprecated" final="true" name="getValue" jni-signature="()Ljava/lang/String;" bridge="false" native="false" return="java.lang.String" jni-return="Ljava/lang/String;" static="false" synchronized="false" synthetic="false" visibility="public"></method>

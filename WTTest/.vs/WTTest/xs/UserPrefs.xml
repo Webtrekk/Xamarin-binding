@@ -1,21 +1,35 @@
 ﻿<Properties StartupConfiguration="{7620903A-BB1B-4C55-B7A9-893E836BC70C}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.ItemProperties.WTTest PreferredExecutionTarget="Android.Nexus_5X_API_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WTTest/MainActivity.cs">
+  <MonoDevelop.Ide.ItemProperties.WTTest AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0918290931042004" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="WTTest/MainActivity.cs" Line="45" Column="19" />
+      <File FileName="WTTest/MainActivity.cs" Line="22" Column="57" />
+      <File FileName="WTTest/MainActivity.cs" Line="22" Column="57" />
+      <File FileName="WTTest/Resources/Resource.designer.cs" Line="4205" Column="21" />
+      <File FileName="WTTest/Resources/layout/activity_main.xml" Line="7" Column="30" />
+      <File FileName="WTTest/Resources/layout/content_main.xml" Line="1" Column="1" />
+      <File FileName="WTTest/Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="../SDKBinding/SDKBinding/Transforms/Metadata.xml" Line="8" Column="9" />
+      <File FileName="../SDKBinding/SDKBinding/Transforms/EnumFields.xml" Line="1" Column="1" />
+      <File FileName="../SDKBinding/SDKBinding/Transforms/EnumMethods.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WTTest" expanded="True">
+            <Node name="SDKBinding" expanded="True">
+              <Node name="Transforms" expanded="True" />
+            </Node>
             <Node name="WTTest" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Assets" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="MainActivity.cs" selected="True" />
+              <Node name="Packages" selected="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

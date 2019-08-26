@@ -569,18 +569,5 @@ namespace Webtrekk.Android.Sdk.Data.Entity {
 			}
 		}
 
-		// Metadata.xml XPath method reference: path="/api/package[@name='webtrekk.android.sdk.data.entity']/class[@name='TrackRequest']/method[@name='setRequestState' and count(parameter)=1 and parameter[1][@type='webtrekk.android.sdk.data.entity.TrackRequest.RequestState']]"
-		[Register ("setRequestState", "(Lwebtrekk/android/sdk/data/entity/TrackRequest$RequestState;)V", "")]
-		public unsafe void SetRequestState (global::Webtrekk.Android.Sdk.Data.Entity.TrackRequest.RequestState set)
-		{
-			const string __id = "setRequestState.(Lwebtrekk/android/sdk/data/entity/TrackRequest$RequestState;)V";
-			try {
-				JniArgumentValue* __args = stackalloc JniArgumentValue [1];
-				__args [0] = new JniArgumentValue ((set == null) ? IntPtr.Zero : ((global::Java.Lang.Object) set).Handle);
-				_members.InstanceMethods.InvokeNonvirtualVoidMethod (__id, this, __args);
-			} finally {
-			}
-		}
-
 	}
 }
