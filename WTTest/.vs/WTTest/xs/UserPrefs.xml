@@ -1,31 +1,22 @@
 ﻿<Properties StartupConfiguration="{7620903A-BB1B-4C55-B7A9-893E836BC70C}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.ItemProperties.WTTest AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0918290931042004" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WTTest AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../.gitignore">
     <Files>
+      <File FileName="WTTest/MainActivity.cs" Line="80" Column="2" />
       <File FileName="WTTest/MainActivity.cs" Line="22" Column="57" />
-      <File FileName="WTTest/MainActivity.cs" Line="22" Column="57" />
-      <File FileName="WTTest/Resources/Resource.designer.cs" Line="4205" Column="21" />
-      <File FileName="WTTest/Resources/layout/activity_main.xml" Line="7" Column="30" />
-      <File FileName="WTTest/Resources/layout/content_main.xml" Line="1" Column="1" />
+      <File FileName="WTTest/Resources/Resource.designer.cs" Line="4362" Column="4" />
+      <File FileName="WTTest/Resources/layout/activity_main.xml" Line="10" Column="18" />
+      <File FileName="WTTest/Resources/layout/content_main.xml" Line="4" Column="18" />
       <File FileName="WTTest/Resources/AboutResources.txt" Line="1" Column="1" />
       <File FileName="../SDKBinding/SDKBinding/Transforms/Metadata.xml" Line="8" Column="9" />
       <File FileName="../SDKBinding/SDKBinding/Transforms/EnumFields.xml" Line="1" Column="1" />
       <File FileName="../SDKBinding/SDKBinding/Transforms/EnumMethods.xml" Line="1" Column="1" />
+      <File FileName="../.gitignore" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WTTest" expanded="True">
-            <Node name="SDKBinding" expanded="True">
-              <Node name="Transforms" expanded="True" />
-            </Node>
-            <Node name="WTTest" expanded="True">
-              <Node name="Packages" selected="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="WTTest" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
