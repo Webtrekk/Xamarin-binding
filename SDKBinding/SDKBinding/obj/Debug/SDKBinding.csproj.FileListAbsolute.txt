@@ -1,6 +1,0 @@
-/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/obj/Debug/SDKBinding.csprojAssemblyReference.cache
-/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/obj/Debug/SDKBinding.csproj.CoreCompileInputs.cache
-/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/bin/Debug/SDKBinding.dll
-/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/bin/Debug/SDKBinding.pdb
-/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/obj/Debug/SDKBinding.dll
-/Users/ahmed.seddik/Desktop/Android/Xamarin/SDKBinding/SDKBinding/obj/Debug/SDKBinding.pdb
